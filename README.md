@@ -2,10 +2,10 @@
 
 A modern, full-featured streaming website template with Persian (RTL) and English (LTR) language support. Built with React, TypeScript, and Tailwind CSS.
 
-![Demo Template](https://img.shields.io/badge/Demo-Template-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-![React](https://img.shields.io/badge/React-18.3-blue.svg)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue.svg)
+[![Demo Template](https://img.shields.io/badge/Demo-Template-orange.svg)](https://kouroshstream.pages.dev)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![React](https://img.shields.io/badge/React-18.3-blue.svg)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue.svg)](https://www.typescriptlang.org/)
 
 > **⚠️ This is a demo template project** - A showcase of a modern streaming website built for educational and demonstration purposes. Not intended for actual content streaming without proper licensing.
 
