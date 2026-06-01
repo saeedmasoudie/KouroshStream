@@ -1,0 +1,27 @@
+User-agent: *
+Allow: /
+
+# Allow important resources
+Allow: /en/
+Allow: /fa/
+Allow: /*.css
+Allow: /*.js
+Allow: /*.jpg
+Allow: /*.png
+Allow: /*.webp
+Allow: /*.svg
+
+# Disallow admin areas (use secure path)
+Disallow: /sys-control-7x24
+Disallow: /admin
+
+# Disallow search result pages to prevent duplicate content
+Disallow: /*?q=*
+Disallow: /*/search?*
+
+# Crawl-delay for bots
+User-agent: *
+Crawl-delay: 1
+
+# Sitemap
+Sitemap: https://greenpixle.com/sitemap.xml
